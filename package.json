@@ -1,0 +1,13 @@
+{
+  "name": "@backlight-dev/abrasive-classroom-2cyj8.blank-m3o6jmo7",
+  "version": "0.0.0",
+  "description": "",
+  "license": "MIT",
+  "type": "module",
+  "homepage": "{{ homepage }}",
+  "scripts": {
+    "serve": "npx backlight@latest serve S8nqIfuQT8PBQJ9fergs --open"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
